@@ -12,25 +12,7 @@
 -  I’m currently learning Sass
   
   
-
 -  I’m open to collaborate and job offers
-  
-
-<br/>  
-
-
-<a href="https://github.com/https://github.com/OneSideMoon" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/https://x.com/sahibatuhan" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammet-batuhan-sahin-965b81216/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/https://www.instagram.com/one.side.moon/?next=https%3A%2F%2Fwww.instagram.com%2Fdirect%2Ft%2F17842397123510415%2F%3F__coig_login%3D1" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
   
 
 <br/>  
@@ -38,7 +20,6 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
@@ -55,7 +36,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### Backend  
@@ -76,7 +56,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### DevOps  
