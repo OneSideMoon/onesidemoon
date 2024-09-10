@@ -9,7 +9,7 @@
 -  I’m currently working on [zenith-ecommerce](https://github.com/OneSideMoon/web-projects/tree/main/zenith-ecommerce)  
   
 
--  I’m currently learning Sass
+-  I’m currently learning PHP
   
   
 -  I’m open to collaborate and job offers
