@@ -65,4 +65,4 @@
 ## My Certificates
   
 
-- [Python certificate](http://ude.my/UC-a1507b38-0be1-43d1-a457-a2d2eff03323 @udemy)  
+- [Python certificate](http://ude.my/UC-a1507b38-0be1-43d1-a457-a2d2eff03323)  
