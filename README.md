@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.imghippo.com/files/ayyHh1724572585.jpg" style="width: 50%">
+<img src="https://i.imghippo.com/files/ayyHh1724572585.jpg" style="width: 50%" alt="One Side">
 </div>  
   
 
