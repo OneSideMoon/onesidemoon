@@ -67,4 +67,4 @@
 - [Python Certificate](http://ude.my/UC-a1507b38-0be1-43d1-a457-a2d2eff03323)
 - [Git Certificate](https://certificates.techcareer.net/en/verify/97150118095848)
 - [jQuery Certificate](https://certificates.techcareer.net/en/verify/31932432958743)
-- [jQuery Certificate](https://certificates.techcareer.net/en/verify/57642738578031)
+- [Node.js Certificate](https://certificates.techcareer.net/en/verify/57642738578031)
