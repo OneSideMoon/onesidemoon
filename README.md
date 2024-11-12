@@ -6,10 +6,10 @@
 ### <div align="center">I'm Batuhan, a passionate web developer</div>  
 
 
--  I’m currently working on Run PHP project  
+-  I’m currently working on University  
   
 
--  I’m currently learning jQuery
+-  I’m currently learning PHP
   
   
 -  I’m open to collaborate and job offers
