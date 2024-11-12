@@ -6,7 +6,7 @@
 ### <div align="center">I'm Batuhan, a passionate web developer</div>  
 
 
--  I’m currently working on University  
+-  I’m currently working on Anadolu University Computer Programming 
   
 
 -  I’m currently learning PHP
