@@ -68,3 +68,4 @@
 - [Git Certificate](https://certificates.techcareer.net/en/verify/97150118095848)
 - [jQuery Certificate](https://certificates.techcareer.net/en/verify/31932432958743)
 - [Node.js Certificate](https://certificates.techcareer.net/en/verify/57642738578031)
+- [Typescript Certificate](https://www.udemy.com/certificate/UC-15589261-d556-4058-ab8e-035d7ddb5fa2/)
